@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pay-off-home-loan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pay-off-home-loan/static/js/main.d476af90.chunk.js",
+    "main.js.map": "/pay-off-home-loan/static/js/main.d476af90.chunk.js.map",
+    "runtime-main.js": "/pay-off-home-loan/static/js/runtime-main.967c9a7e.js",
+    "runtime-main.js.map": "/pay-off-home-loan/static/js/runtime-main.967c9a7e.js.map",
+    "static/js/2.2e5f02e8.chunk.js": "/pay-off-home-loan/static/js/2.2e5f02e8.chunk.js",
+    "static/js/2.2e5f02e8.chunk.js.map": "/pay-off-home-loan/static/js/2.2e5f02e8.chunk.js.map",
+    "index.html": "/pay-off-home-loan/index.html",
+    "precache-manifest.804027c2d9dd9d6e4fef1a25638af638.js": "/pay-off-home-loan/precache-manifest.804027c2d9dd9d6e4fef1a25638af638.js",
+    "service-worker.js": "/pay-off-home-loan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pay-off-home-loan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e5f02e8.chunk.js.LICENSE.txt": "/pay-off-home-loan/static/js/2.2e5f02e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pay-off-home-loan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.967c9a7e.js",
+    "static/js/2.2e5f02e8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d476af90.chunk.js"
+  ]
+}
