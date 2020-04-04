@@ -1,0 +1,34 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "linterOptions": {
+    "exclude": ["./src/gen/**/*.ts"]
+  },
+  "rules": {
+    "curly": false,
+    "member-ordering": [
+      true,
+      {
+        "order": [
+          "public-static-field",
+          "public-instance-field",
+          "public-constructor",
+          "private-static-field",
+          "private-instance-field",
+          "private-constructor",
+          "public-instance-method",
+          "protected-instance-method",
+          "private-instance-method"
+        ],
+        "alphabetize": true
+      }
+    ],
+    "no-console": false,
+    "no-implicit-dependencies": false,
+    "no-submodule-imports": false,
+    "object-literal-sort-keys": true,
+    "ordered-imports": true,
+    "quotemark": [true, "jsx-double", "single"],
+    "semicolon": false
+  },
+  "rulesDirectory": ["tslint-plugin-prettier"]
+}
